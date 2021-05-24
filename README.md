@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Potapov Denis
+- 👋 Hi, I’m Denis
 - 👀 I’m Computer Vision Engineer and I like everything connected with CV. Also I interested in Self-Driving Cars :red_car:
 - :wrench: Python, OpenCV, PyTorch
 
