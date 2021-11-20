@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Denis Potapov
-- 👀 I’m Computer Vision Engineer and I like everything connected with CV.
+- 👋 Going deeper in Deep Learning
+- 👀 Always hungly, always learning
 - :wrench: Python, OpenCV, PyTorch, Docker, Git
 
 <!---
